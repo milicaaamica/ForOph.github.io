@@ -82,6 +82,7 @@ a{
     background-image: url(photos/haruhi_and_tamaki.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    transition: 0.6s;
 }
 #card3:hover{
   transition: 0.6s;
