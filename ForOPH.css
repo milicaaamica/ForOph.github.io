@@ -165,7 +165,7 @@ a{
   border: 3px solid #7b4032;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
   padding: 50px;
-
+margin:auto;
   justify-self: center;
 
 }
@@ -183,7 +183,15 @@ main{
     width:100%;
     }
     header{ width:100%;}
+    navbar a {
+
+    padding: 0 15px;
+    margin: 0 20px;
+    border-left: 3px solid #7b4032;
+    border-right: 3px solid #7b4032;
 }
+}
+
 
 
 
