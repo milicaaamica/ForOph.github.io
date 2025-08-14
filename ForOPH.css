@@ -179,8 +179,12 @@ a{
 main{
  width:100%;
 }
-    
+    .letter{
+    width:100%;
+    }
+    header{ width:100%;}
 }
+
 
 
 
